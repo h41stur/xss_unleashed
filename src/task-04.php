@@ -66,7 +66,7 @@
             <p>
                 <ol>
 
-                    <li>Intercept the form submit and send the username and password to an attacker controlled machine without breaking the authentication flow</li>
+                    <li>Intercept the form submit and send the username and password to an attacker controlled machine.</li>
                 </ol>
 
             </p>

@@ -50,6 +50,14 @@
     <h2 align="center" class="h41stur" id="exploit"></h2>
     <h2></h2>
 
+    <form class="form-signin">
+        <h2 class="form-signin-heading" class="h41stur">Search!</h2>
+        <input type="text" value="" class="input-block-level"  name="search">
+        <input type="hidden" value="d8aea5b04b59ad8a36d1e2c10a77c426" name="token">
+
+        <button class="btn btn-large btn-primary" type="submit">Submit!</button>
+    </form>
+
     <h2 class="h41stur">Search Engine: <?php echo $xss; ?></h2>
     <p>
         <div class="well">
