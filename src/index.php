@@ -50,7 +50,7 @@ include_once 'config/app.php';
       <div class="container">
       <h1 align="center" class="h41stur">Crossing the Line: XSS Unleashed</h1>
       <br>
-      <div align="center"><img width="400" src="../img/h41stur.jpeg" /></div>
+      <div align="center"><img width="400" src="../img/xss_unleashed.jpg" /></div>
     
 
     <h1 align="center" class="h41stur">Task list:</h1>

@@ -41,7 +41,7 @@
         <h1 align="center" class="h41stur">Task 6 - Changing Content to Social Engineering</h1>
         <br>
         <br>
-      <div align="center"><img width="400" src="../img/h41stur.jpeg" /></div>
+      <div align="center"><img width="400" src="../img/xss_unleashed.jpg" /></div>
       <br>
     
 
