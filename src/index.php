@@ -108,7 +108,7 @@ include_once 'config/app.php';
             </div>
         </div>
     </div>
-<?php include('footer.php'); ?>
+
 
 
 <script>
